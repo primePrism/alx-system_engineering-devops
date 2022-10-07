@@ -1,2 +1,2 @@
 #!/bin/bash
-dchown vincentd:staff * group
+chown vincentd:staff *
